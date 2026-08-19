@@ -2,3 +2,4 @@
 Conflict line from B
 # Branching Demo
 Conflict line from A
+Added from GitHub

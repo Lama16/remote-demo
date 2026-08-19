@@ -1,2 +1,2 @@
-# Branching demo
-Main branch content
+# Branching Demo
+Conflict line from B
